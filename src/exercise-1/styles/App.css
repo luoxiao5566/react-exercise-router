@@ -1,0 +1,33 @@
+.head {
+    display: block;
+    width: auto;
+    height: 90px;
+    background-color: #cccccc;
+}
+
+.head li {
+    display: inline-block;    
+    margin-right: 40px;
+    float: right;
+    line-height: 90px;      
+}
+
+.links {
+    color: rgb(87, 84, 84);
+    text-decoration: none;
+    
+}
+
+.linkweb {    
+    color: red;
+}
+
+.links1 {
+    color: rgb(87, 84, 84);
+    text-decoration:underline;    
+}
+
+.linkPro {
+    color: red;
+    text-decoration: none;
+}
